@@ -1,0 +1,34 @@
+---
+title: "Guide for using the App"
+output: html_document
+
+---
+
+
+---
+---
+---
+
+
+1. It has slider inputs and allows you to choose among several parameters
+2. Parameters are surface area of the building, orientation,Height,Roof area,Glazing Area and Glazing Area distribution
+3. The volume of the building is fixed at 700m3.
+4. You can refer to the RC tab for the building type
+5. Based on your choice it gives you the heating and cooling load required.
+
+
+
+## Motivation behind the app
+
+
+
+1. Building energy consumption has increased tremendously worldwide, 40% of total primary energy is consumed by buildings alone in US
+
+2. Increased energy consumption leads to higher GHG emissions, which means accelerating Climate Change
+
+3. Energy simulation especially during the design phase, can help in improving the efficiency of
+buildlings,leading to lower energy consumption during the operations phase.
+
+4. Simulation is tedious process and it takes hours to do the job.
+
+5. Having tools which can predict heating and cooling load ,during conceptual stage, can help  designers to analyze the influence of input parameters on energy consumption.
